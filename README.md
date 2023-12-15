@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ninabordo03
-- 👀 I’m interested in programming, machine learning and data science
+- 👀 I’m interested in programming, machine learning, data science and new languages
 - 🌱 I’m currently learning machine learning and data science
 - 💞️ I’m looking to collaborate on science and technology
 - 📫 How to reach me: ninabordo03@gmail.com
